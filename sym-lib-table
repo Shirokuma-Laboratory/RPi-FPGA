@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RPi_FPGA-LMCXO2-rescue)(type Legacy)(uri ${KIPRJMOD}/RPi_FPGA-LMCXO2-rescue.lib)(options "")(descr ""))
+  (lib (name FPGA_LMCXO2)(type Legacy)(uri /home/ryzen2001/lib/kicad/FPGA_Lattice_MachXO2.lib)(options "")(descr ""))
+)
