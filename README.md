@@ -10,8 +10,8 @@ Table 1: Available Models and its features of Lattice semiconductor MachXO2 FPGA
 |:-------:|----------:|----------:|----------:|-----------:|
 |LUTs |256|640|1280|2112|
 |I/Os |55|78|79|79| 
-|EBRRAM|0|64|||
-|DistRAM|2||||
-|Flash|
+|EBR RAM<br>(kbits)|0|64|||
+|Dist RAM<br>(kbits)|2||||
+|Flash<br>(kbits)|
 |PLL|
 
