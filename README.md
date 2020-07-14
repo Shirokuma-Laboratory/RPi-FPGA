@@ -1,5 +1,7 @@
 # RPi-FPGA LMCXO2-100(Under Construction!)
+ラティス・セミコンダクタ MachXO2 FPGA を用いた Raspberry Pi I/O 拡張モジュール
 Raspberry Pi I/O extention module using Lattice semiconductor MachXO2 FPGA.
+
 
 This module is desined for 0.5mm pitch TQFP 100pin package devices of Lattice semiconductor MachXO2 FPGAs.  
 Since 3.3v power is supplied from Raspberry Pi, the HC type devices that has 3.3v of the core voltages can be used.  
