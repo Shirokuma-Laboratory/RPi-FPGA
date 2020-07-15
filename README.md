@@ -7,7 +7,7 @@ Raspberry Pi I/O extention module using Lattice semiconductor MachXO2 FPGA.
 This module is desined for 0.5mm pitch TQFP 100pin package devices of Lattice semiconductor MachXO2 FPGAs.  
 Raspberry Pi から 3.3v の供給を受けるので、コア電圧 3.3v のHC型デバイスが使えます。  
 Since 3.3v power is supplied from Raspberry Pi, the HC type devices that has 3.3v of the core voltages can be used.  
-Table 1 に、Lattice semiconductor MachXO2 FPGA シリーズの利用可能なモデルとその機能を示します。
+Table 1 に、Lattice semiconductor MachXO2 FPGA シリーズの利用可能なモデルとその機能を示します。  
 Table 1 shows available models and features of Lattice semiconductor MachXO2 FPGAs.  
   
 Table 1: Available Models and features of Lattice semiconductor MachXO2 FPGAs.
