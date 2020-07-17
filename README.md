@@ -1,4 +1,4 @@
-# RPi-FPGA LMCXO2-100
+# RPi-FPGA LMCXO2-100 (Now Testing)
 ラティス・セミコンダクタ MachXO2 FPGA を用いた Raspberry Pi I/O 拡張モジュール  
 Raspberry Pi I/O extention module using Lattice semiconductor MachXO2 FPGA.
 
